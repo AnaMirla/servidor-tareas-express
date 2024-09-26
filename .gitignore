@@ -1,0 +1,5 @@
+#eliminar dependendias de node
+node_modules/
+package-lock.json
+#variables de entorno
+.env
